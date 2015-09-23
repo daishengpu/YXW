@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.seegoo.axnbonphone</string>
+				<string>com.aaic.gis</string>
 				<key>bundle-version</key>
 				<string>1.02</string>
 				<key>kind</key>
